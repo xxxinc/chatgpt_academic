@@ -1,9 +1,9 @@
 # API_KEY = "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" 此key无效
-API_KEY = "sk-此处填API秘钥"
+API_KEY = "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"
 API_URL = "https://api.openai.com/v1/chat/completions"
 
 # 改为True应用代理
-USE_PROXY = False
+USE_PROXY = True
 if USE_PROXY:
 
     # 填写格式是 [协议]://  [地址] :[端口] ，
